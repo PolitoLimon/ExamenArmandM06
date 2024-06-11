@@ -1,0 +1,24 @@
+{
+  "name": "examenarmandm06",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-json-server": "json-server --watch db.json --port 5000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PolitoLimon/ExamenArmandM06.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PolitoLimon/ExamenArmandM06/issues"
+  },
+  "homepage": "https://github.com/PolitoLimon/ExamenArmandM06#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
